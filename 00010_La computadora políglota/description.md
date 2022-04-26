@@ -27,4 +27,4 @@ def doble(numero)
 end
 ```
 
-> ¿Cuál de los siguientes códigos crees que está escrito en Python?
+> ¿Cuál de los siguientes códigos crees que está escrito en JavaScript?
