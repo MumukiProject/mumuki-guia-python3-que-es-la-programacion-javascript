@@ -13,12 +13,12 @@ choices:
   value: "```javascriptfunction doble(número){    return número * 2 ;  } ```"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```javascriptfunction doble(numero){    return numero + numero;   } ```"
+  value: "```javascript function doble(numero){    return numero + numero;   } ```"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```javascriptfunction doble(numero){    return numero * 2;   } ```"
+  value: "```javascript function doble(numero){    return numero * 2;   } ```"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```javascriptfunction doble(numero)    return numero * 2;   ```"
+  value: "```javascript function doble(numero)    return numero * 2;   ```"
   checked: false
 name: No te entiendo nada
