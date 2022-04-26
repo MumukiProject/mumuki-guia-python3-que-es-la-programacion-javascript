@@ -1,0 +1,1 @@
+¡Muy bien! :tada: Si bien cuando programamos podemos encontrar palabras en inglés u otros idiomas, los lenguajes de programación siguen reglas totalmente diferentes de las de aquellos. De hecho, no necesitamos saber hablar en inglés para poder programar. :raised_hands:

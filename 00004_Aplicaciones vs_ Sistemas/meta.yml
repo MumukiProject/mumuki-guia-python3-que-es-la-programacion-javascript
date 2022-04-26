@@ -1,0 +1,42 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[Bloc de notas](https://es.wikipedia.org/wiki/Bloc_de_notas)"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[AFIP](https://www.afip.gob.ar/sitio/externos/default.asp)"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[Instagram](https://www.instagram.com)"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[Mercado Libre](https://www.mercadolibre.com.ar)"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[Despegar](https://www.despegar.com.ar)"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[Buscaminas](https://es.wikipedia.org/wiki/Buscaminas)"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[Fortnite](https://www.epicgames.com/fortnite/es-ES/home)"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[Minecraft](https://www.minecraft.net/es-es)"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[Solitario](https://es.wikipedia.org/wiki/Solitario_Microsoft)"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "[Mumuki](https://mumuki.io/home)"
+  checked: true
+name: Aplicaciones vs. Sistemas

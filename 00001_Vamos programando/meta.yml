@@ -1,0 +1,33 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La contabilidad de una empresa.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La reserva de un turno.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Corregir un examen.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La creación de un videojuego.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Realizar videollamadas.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Reconocer imágenes.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Conducir un robot en Marte.
+  checked: true
+name: Vamos programando

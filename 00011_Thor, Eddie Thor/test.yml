@@ -1,0 +1,5 @@
+- name: 'Quiero empezar ya a programar'
+  postconditions:
+    contain: 
+      ignore_case: true
+      expected: 'Quiero empezar ya a programar'

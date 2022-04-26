@@ -1,0 +1,22 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "```ruby\ndef saludar(nombre)\n  \"Hola \" + nombre            \nend\n```\n"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "```javascript\nfunction saludar(nombre) {\n  return \"Hola \" + nombre;
+    \   \n}\n```\n"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "```python\ndef saludar(nombre):\n  return \"Hola \" + nombre     \n```\n"
+  checked: true
+name: La computadora políglota

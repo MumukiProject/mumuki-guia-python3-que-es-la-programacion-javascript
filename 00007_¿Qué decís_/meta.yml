@@ -1,0 +1,27 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: ola k asé?
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: hola, ¿qué hacés?
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "?hola qué hacés¿"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: hola, que? haces
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: hoal, ¿qéu haecs?
+  checked: false
+name: "¿Qué decís?"

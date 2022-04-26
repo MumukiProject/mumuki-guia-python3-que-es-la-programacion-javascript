@@ -1,0 +1,27 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Una receta de cocina.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Las instrucciones para hacer un origami.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Los pasos para resolver un cubo Rubik.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La lógica que siguen las redes sociales para sugerirte contactos.
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Todas las anteriores.
+  checked: true
+name: Algo con ritmo
