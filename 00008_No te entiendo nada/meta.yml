@@ -10,19 +10,15 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```python\ndef doble(número):\n  return número * 2     \n```\n"
+  value: "```javascript function doble(número){    return número * 2 ;  } ```"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: |
-    ```python
-    def doble(numero):
-      return numero + numero
-    ```
+  value: "```javascript function doble(numero){    return numero + numero;   } ```"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```python\ndef doble(numero):\n  return numero * 2     \n```\n"
+  value: "```javascript function doble(numero){    return numero * 2;   } ```"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```python\ndef doble(numero)\n  return numero * 2     \n```\n"
+  value: "```javascript function doble(numero)    return numero * 2;   ```"
   checked: false
 name: No te entiendo nada

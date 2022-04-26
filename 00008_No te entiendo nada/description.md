@@ -2,37 +2,41 @@ Recién vimos que las oraciones, frases o párrafos escritos en un lenguaje natu
 
 Por ejemplo el siguiente código:
  
-```python
-def hola_mundo():
-    print('hola mundo')
+```javascript
+function holaMundo(){
+    console.log('hola mundo');
+  }
 ```
 
 no es lo mismo que:
 
-```python
-Def Hola_mundo():
-    Print('hola mundo')
+```javascript
+Function HolaMundo(){
+    console.log('hola mundo');
+ }
 ```
 
 o esto:
 
-```python
-def hola_mundo[]:
-    print('hola mundo')
+```javascript
+function holaMundo[]:{
+    console.log('hola mundo');
+ }
 ```
 
 ni esto: 
 
-```python
-def hola_mundo():
-print('hola mundo')
+```javascript
+function holaMundo()
+  console.log('hola mundo');
 ```
 
 Si no cumplimos con estos principios, a los cuales llamaremos _sintaxis_, la computadora no podrá interpretar nuestra intención y esto llevará a que nuestros programas no funcionen como lo teníamos planeado. :thumbsdown:
 
 > Seleccioná qué porción de código es idéntica a:
 >
-```python
-def doble(numero):
-   return numero * 2
+```javascript
+function doble(numero){
+   return numero * 2;
+  }
 ```
