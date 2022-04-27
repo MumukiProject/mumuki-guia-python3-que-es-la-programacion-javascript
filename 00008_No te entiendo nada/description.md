@@ -4,24 +4,24 @@ Por ejemplo el siguiente código:
  
 ```javascript
 function holaMundo(){
-    console.log('hola mundo');
-  }
+  console.log('hola mundo');
+}
 ```
 
 no es lo mismo que:
 
 ```javascript
 Function HolaMundo(){
-    console.log('hola mundo');
- }
+  console.log('hola mundo');
+}
 ```
 
 o esto:
 
 ```javascript
 function holaMundo[]:{
-    console.log('hola mundo');
- }
+  console.log('hola mundo');
+}
 ```
 
 ni esto: 
@@ -37,6 +37,6 @@ Si no cumplimos con estos principios, a los cuales llamaremos _sintaxis_, la com
 >
 ```javascript
 function doble(numero){
-   return numero * 2;
-  }
+  return numero * 2;
+}
 ```
