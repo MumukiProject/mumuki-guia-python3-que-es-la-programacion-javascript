@@ -19,6 +19,6 @@ choices:
   value: "```javascript\nfunction doble(numero){\n    return numero * 2;     \n}\n```\n"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "```javascript\nfunction doble(numero)\n    return numero * 2;      \n```\n"
+  value: "```javascript\nfunction doble(numero)\n    return numero * 2;     \n```\n"
   checked: false
 name: No te entiendo nada
