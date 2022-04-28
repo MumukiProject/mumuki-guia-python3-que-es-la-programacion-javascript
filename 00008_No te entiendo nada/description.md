@@ -19,7 +19,7 @@ Function HolaMundo(){
 o esto:
 
 ```javascript
-function holaMundo[]:{
+function holaMundo[]{
   console.log('hola mundo');
 }
 ```
